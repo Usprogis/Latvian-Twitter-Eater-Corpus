@@ -4,7 +4,7 @@ This repo contains valuable information about the Latvian Twitter Eater Corpus.
 The structure is like this:
 - scripts
 - text
-- twitter-eater-corpus
+- LTEC
 
 
 ## scripts
@@ -28,6 +28,6 @@ They are labeled as:
 - test_pos.txt, test_neg.txt, test_nei.txt - tweet data used to evaluate the sentiment analyser.
 - lv_stopwords.txt - latvian stopwords used in the sentiment analyser.
 
-## twitter-eater-corpus
+## LTEC
 This folder contains the LTEC. All information from the corpus is hidden, and only the tweet ID are available due to Twitter data usage
 rights. To gain the full corpus information, please, contact the repos owner.
