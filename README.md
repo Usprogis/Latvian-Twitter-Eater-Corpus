@@ -26,6 +26,7 @@ They are labeled as:
 - good_emoji_count.txt - good emoticon tweets.
 - train_pos, train_neg, train_nei - tweet data used to train the sentiment analyser.
 - test_pos.txt, test_neg.txt, test_nei.txt - tweet data used to evaluate the sentiment analyser.
+- lv_stopwords.txt - latvian stopwords used in the sentiment analyser.
 
 ## twitter-eater-corpus
 This folder contains the LTEC. All information from the corpus is hidden, and only the tweet ID are available due to Twitter data usage
