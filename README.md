@@ -7,7 +7,8 @@ The structure is like this:
 - LTEC
 
 
-## scripts
+scripts
+---------
 This repo contains script files writen in Python, used to gather information from the Latvian Twitter Eater Corpus or LTEC for short.
 Here's a short summary about each of them:
 - data_converter.py - converts the tweet data from the MYSQL database to JSON format file.
@@ -17,7 +18,8 @@ Here's a short summary about each of them:
 - sentiment_analyser.py - takes as input tweet text files labeled as positive, negative and neutral, and returns the accuracy of the
 developed sentiment analyser.
 
-## text
+text
+---------
 The repo also contains subgroups of tweets such as a group of tweets representing questions and replies gathered from the Twitter API.
 A group of tweets containing positive and negative emoticons and group of tweets used to train and test a selfmade sentiment analyser.
 They are labeled as:
@@ -28,6 +30,25 @@ They are labeled as:
 - test_pos.txt, test_neg.txt, test_nei.txt - tweet data used to evaluate the sentiment analyser.
 - lv_stopwords.txt - latvian stopwords used in the sentiment analyser.
 
-## LTEC
+LTEC
+---------
 This folder contains the LTEC. All information from the corpus is hidden, and only the tweet ID are available due to Twitter data usage
 rights. To gain the full corpus information, please, contact the repos owner.
+
+
+Publications
+---------
+
+If you use this tool, please cite the following paper:
+
+Matīss Rikters (2020). "[What Can We Learn From Almost a Decade of Food Tweets.](https://klc.vdu.lt/hlt/programme)" In Proceedings of the 9th Conference Human Language Technologies - The Baltic Perspective (Baltic HLT 2020) (2020).
+
+```
+@inproceedings{SprogisRikters2020BalticHLT,
+	author = {Sproģis, Uga and Rikters, Matīss},
+	booktitle={In Proceedings of the 9th Conference Human Language Technologies - The Baltic Perspective (Baltic HLT 2020)},
+	title = {{What Can We Learn From Almost a Decade of Food Tweets}},
+	address={Kaunas, Lithuania},
+	year = {2020}
+}
+```
