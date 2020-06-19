@@ -43,7 +43,7 @@ If you use this tool, please cite the following paper:
 
 Matīss Rikters (2020). "[What Can We Learn From Almost a Decade of Food Tweets.](https://klc.vdu.lt/hlt/programme)" In Proceedings of the 9th Conference Human Language Technologies - The Baltic Perspective (Baltic HLT 2020) (2020).
 
-```
+```bibtex
 @inproceedings{SprogisRikters2020BalticHLT,
 	author = {Sproģis, Uga and Rikters, Matīss},
 	booktitle={In Proceedings of the 9th Conference Human Language Technologies - The Baltic Perspective (Baltic HLT 2020)},
