@@ -77,8 +77,8 @@ if __name__ == "__main__":
     for line in r:
         stop_words.append(line.replace('\n',''))
 
-    testing_set = create_dataset("test/test.pos.tok.txt","test/test.neg.tok.txt", "test/test.nei.tok.txt", stop_words)
-    training_set = create_dataset("marked_positive.txt","marked_negative.txt", "marked_neitral.txt", stop_words)
+    testing_set = create_dataset("experiment-data/test.pos","experiment-data/test.neg", "experiment-data/test.nei", stop_words)
+    training_set = create_dataset("experiment-data/train.pos","experiment-data/train.neg", "experiment-data/train.nei", stop_words)
 
     classifier = NaiveBayesClassifier.train(training_set)
 
