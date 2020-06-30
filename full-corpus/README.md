@@ -3,7 +3,7 @@ This repository contains the publishable part of the Latvian Twitter Eater Corpu
 A simple analysis of the last few months worth of these tweets can always be found in the [TwitĒdiens](http://twitediens.ml/) website.
 
 # Files
-- **ltec-full-tweet-ids.txt** contains IDs of all tweets from the corpus - one per line
+- **ltec-full-tweet-ids.txt** contains IDs of all tweets from the corpus - one per line. A quick way to get tweets (and replies) using IDs is [scraping Twitters website](https://github.com/M4t1ss/TwEater)
 - **ltec-full.json** contains the full version of the corpus with each tweet represented as in the [tweet structure](#tweet-structure). 
 	- All tweets have at least the following properties: `tweet_id`, `tweet_text`, `tweet_author`, `created_at`. 
 	- The remaining properties are optional - `location_` properties are only for tweets that had location information and `food_` properties are only for tweets which mention at least one food/drink.
