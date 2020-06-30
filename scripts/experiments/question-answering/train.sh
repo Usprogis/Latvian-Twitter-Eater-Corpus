@@ -1,0 +1,44 @@
+#/bin/bash
+. ./data.sh
+
+python -m sockeye.train \
+		-s  $EXP_TRAIN_SRC \
+		-t  $EXP_TRAIN_TRG \
+		-vs  $EXP_VALID_SRC \
+		-vt  $EXP_VALID_TRG \
+		--source-vocab $EXP_DICT_SRC \
+		--target-vocab $EXP_DICT_SRC \
+		--batch-type=word \
+		--batch-size=2048 \
+		--embed-dropout=0:0 \
+		--encoder=transformer \
+		--decoder=transformer \
+		--num-layers=6:6 \
+		--transformer-model-size=512 \
+		--transformer-attention-heads=8 \
+		--transformer-feed-forward-num-hidden=1024 \
+		--transformer-preprocess=n \
+		--transformer-postprocess=dr \
+		--transformer-dropout-attention=0.3 \
+		--transformer-dropout-act=0.3 \
+		--transformer-dropout-prepost=0.3 \
+		--transformer-positional-embedding-type fixed \
+		--label-smoothing 0.1 \
+		--weight-tying \
+		--weight-tying-type=src_trg_softmax \
+		--num-embed 512 \
+		--gradient-clipping-threshold=-1 \
+		--initial-learning-rate=0.0001 \
+		--max-num-checkpoint-not-improved 7 \
+		--learning-rate-reduce-factor=0.7 \
+		--weight-init xavier \
+		--weight-init-scale 3.0 \
+		--decode-and-evaluate -1 \
+		--decode-and-evaluate-device-id 0 \
+		--device-ids $GPU_ID \
+		--max-seq-len 128 \
+		--checkpoint-frequency 5000 \
+		-o $EXP_MODEL_DIR \
+		--weight-init-xavier-factor-type avg \
+		--disable-device-locking \
+		--keep-last-params 5
