@@ -22,13 +22,12 @@ developed sentiment analyser.
 Sub-corpora
 ---------
 The directory contains sub-corpora of tweets such as a tweets representing questions and replies gathered from the Twitter API.
-A group of tweets containing positive and negative emoticons and group of tweets used to train and test a selfmade sentiment analyser.
+A group of tweets containing positive and negative emoticons, tweets who authors are the latvian media and restaurant accounts  and group of tweets used to train and test a selfmade sentiment analyser.
 They are labeled as:
-- **ltec-questions-answers.json** - questions and replies tweets.
-- **automatic.neg** - negative emoticon tweets.
-- **automatic.pos** - positive emoticon tweets.
-- **train.pos, train.neg, train.nei** - tweet data used to train the sentiment analyser.
-- **test.pos, test.neg, test.nei** - tweet data used to evaluate the sentiment analyser.
+- **ltec-questions-answers.json** - tweet data that contains answer data to a question tweet.
+- **ltec-answers-questions.json** - tweet data that contains question data. 
+- **ltec-sentiment-annotated.json** - contains tweets with human annotated sentiment where each tweet represented as in the tweet structure.
+- **ltec-sentiment-automatic.json contains tweets with automatically assigned sentiment based on emoticons.
 
 Full-corpus
 ---------
