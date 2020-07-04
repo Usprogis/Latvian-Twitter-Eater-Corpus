@@ -27,7 +27,7 @@ They are labeled as:
 - **ltec-questions-answers.json** - tweet data that contains answer data to a question tweet.
 - **ltec-answers-questions.json** - tweet data that contains question data. 
 - **ltec-sentiment-annotated.json** - contains tweets with human annotated sentiment where each tweet represented as in the tweet structure.
-- **ltec-sentiment-automatic.json contains tweets with automatically assigned sentiment based on emoticons.
+- **ltec-sentiment-automatic.json** contains tweets with automatically assigned sentiment based on emoticons.
 
 Full-corpus
 ---------
