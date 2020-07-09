@@ -6,6 +6,20 @@ Repository structure:
 - **sub-corpora** - task-specific sub-corpora derrived from th full corpus
 - **scripts** - scripts for data preparation and analyis
 
+Full-corpus
+---------
+This directory contains the LTEC. All information from the corpus is hidden, and only the tweet ID are available due to Twitter data usage
+rights. To gain the full corpus information, please, contact the repos owner.
+
+Sub-corpora
+---------
+The directory contains sub-corpora of tweets: 1) tweets representing questions and their replies gathered from the Twitter API; 2) sentiment annotated tweets containing tweets where sentiment is automatically marked by usage of positive or negative emoticons while tweets from media and restaurant accounts marked as neutral, and manually annotated tweets which we used to train and test a our sentiment analyser.
+They are labeled as:
+- **ltec-questions-answers.json** - contains tweets which express questions along with replies to those tweets
+- **ltec-answers-questions.json** - contains tweets which express questions and are replies to other tweets along with the tweets that they are replying to
+- **ltec-sentiment-annotated.json** - contains tweets with human annotated sentiment
+- **ltec-sentiment-automatic.json** - contains tweets with automatically assigned sentiment based on emoticons and media/restaurant users
+
 
 Scripts
 ---------
@@ -18,22 +32,6 @@ Here's a short summary about each of them:
 - **sentiment_analyser.py** - takes as input tweet text files labeled as positive, negative and neutral, and returns the accuracy of the
 developed sentiment analyser.
 - **lv_stopwords.txt** - latvian stopwords used in the sentiment analyser.
-
-Sub-corpora
----------
-The directory contains sub-corpora of tweets such as a tweets representing questions and replies gathered from the Twitter API.
-A group of tweets containing positive and negative emoticons and group of tweets used to train and test a selfmade sentiment analyser.
-They are labeled as:
-- **ltec-questions-answers.json** - questions and replies tweets.
-- **automatic.neg** - negative emoticon tweets.
-- **automatic.pos** - positive emoticon tweets.
-- **train.pos, train.neg, train.nei** - tweet data used to train the sentiment analyser.
-- **test.pos, test.neg, test.nei** - tweet data used to evaluate the sentiment analyser.
-
-Full-corpus
----------
-This directory contains the LTEC. All information from the corpus is hidden, and only the tweet ID are available due to Twitter data usage
-rights. To gain the full corpus information, please, contact the repos owner.
 
 
 Publications

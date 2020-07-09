@@ -1,8 +1,12 @@
 # Sentiment Analysis Sub-corpus
-- **ltec-sentiment-annotated.json** contains tweets with human annotated sentiment where each tweet represented as in the [tweet structure](#tweet-structure).
-- **ltec-sentiment-automatic.json** contains tweets with automatically assigned sentiment based on emoticons.
 
-# Tweet Structure
+This sub-corpus contains 5420 tweets with human-annotated sentiment as positive (pos), neutral (neu) or negative (neg). 1631 tweets are positive, 2507 - neutral and 1282 - negative.
+
+- **ltec-sentiment-annotated.json** contains tweets with human annotated sentiment
+- **ltec-sentiment-annotated-test.json** contains the test set that we used in our paper
+- **ltec-sentiment-automatic.json** contains tweets with automatically assigned sentiment based on emoticons
+
+## Tweet Structure
 ```json
 {   
 	"sentiment":"pos",
@@ -13,7 +17,7 @@
 ```
 
 
-Other Latvian twitter sentiment corpora
+## Other Latvian twitter sentiment corpora
 ---------
 * [Pinnis](https://github.com/pmarcis/latvian-tweet-corpus) - ~ 7000 tweets from politicians and companies
 * [Peisenieks](https://github.com/FnTm/latvian-tweet-sentiment-corpus) - ~ 1000 general tweets with sentiment annotated by multiple annotators
