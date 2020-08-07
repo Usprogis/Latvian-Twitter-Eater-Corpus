@@ -39,7 +39,7 @@ Publications
 
 If you use this corpus or scripts, please cite the following paper:
 
-Uga Sproģis and Matīss Rikters (2020). "[What Can We Learn From Almost a Decade of Food Tweets.](https://klc.vdu.lt/hlt/programme)" In Proceedings of the 9th Conference Human Language Technologies - The Baltic Perspective (Baltic HLT 2020) (2020).
+Uga Sproģis and Matīss Rikters (2020). "[What Can We Learn From Almost a Decade of Food Tweets.](https://arxiv.org/abs/2007.05194)" In Proceedings of the 9th Conference Human Language Technologies - The Baltic Perspective ([Baltic HLT 2020](https://klc.vdu.lt/hlt/programme)) (2020).
 
 ```bibtex
 @inproceedings{SprogisRikters2020BalticHLT,
