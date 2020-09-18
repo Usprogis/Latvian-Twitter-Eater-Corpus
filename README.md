@@ -3,7 +3,7 @@
 This repository contains the Latvian Twitter Eater Corpus.
 Repository structure:
 - **full-corpus** - the full corpus in several formats
-- **sub-corpora** - task-specific sub-corpora derrived from th full corpus
+- **sub-corpora** - task-specific sub-corpora derrived from the full corpus
 - **scripts** - scripts for data preparation and analyis
 
 Full-corpus
@@ -23,15 +23,12 @@ They are labeled as:
 
 Scripts
 ---------
-This directory contains script files writen in Python, used to gather information from the Latvian Twitter Eater Corpus or LTEC for short.
+This directory contains script files writen in Python and shell, used to gather information from the Latvian Twitter Eater Corpus or LTEC for short.
 Here's a short summary about each of them:
-- **data_converter.py** - converts the tweet data from the MYSQL database to JSON format file.
-- **filewriter.py** - writes all JSON file content in one JSON file.
-- **years_months.py** - gets tweet count for each year and month and visualise it into a graph.
-- **top_food_overall.py** - gets information about the most used food and drink words mentioned in tweets.
-- **sentiment_analyser.py** - takes as input tweet text files labeled as positive, negative and neutral, and returns the accuracy of the
-developed sentiment analyser.
-- **lv_stopwords.txt** - latvian stopwords used in the sentiment analyser.
+- **analysis** - scripts, which give analysis of the corpus.
+- **data-preparation** - scripts, used to create the corpus from MySQL database data.
+- **experiments** - scripts, for data preparation and training for QA model and sentiment analysis
+
 
 
 Publications
