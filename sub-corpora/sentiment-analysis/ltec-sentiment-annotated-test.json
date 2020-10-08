@@ -138,7 +138,7 @@
       "tweet_text": "ŅAM ŅAM https://t.co/L15l0b4zsW"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "_skabarga",
       "tweet_id": "1258416984804528128",
       "tweet_text": "Reku vienas superīgas konditores siera kūkas krēma recepte https://t.co/BD35XGlQxO"
@@ -498,7 +498,7 @@
       "tweet_text": "@edgarslabsvirs Ļoti žēl ... tik viegli noēst cilvēkus"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Agy_1988",
       "tweet_id": "1258768704722161665",
       "tweet_text": "Ir idejas, kuras nekad nav strādājušas. Piemēram, brokastis mammai! Viņa ceļas tik agri, ka viņa nobrīnīsies, ko zombijs virtuvē dara."
@@ -1218,7 +1218,7 @@
       "tweet_text": "@btsjams321 ja bet kafija lieliskaka"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Murnieks",
       "tweet_id": "1257632682076442624",
       "tweet_text": "@liana_langa @ZiemasEzis @AnitaDreika @XforY Protams katrs jau tulko savādāk. Mana versija, ka pašā sākumā sajauc, kad Baiba iekož saprot, ka nav Zane un iemīlas no pirmā acu skatiena! Un protams milzu spīts, ka pirmais puisis ciemā nedabū uzreiz to meiteni kuru vēlas."
@@ -1278,7 +1278,7 @@
       "tweet_text": "@hmm_pff @Oysterreich nudien. gara acīm redzu kā šis krievs turpmākajā dzīvē tērpjas linu kreklā pin kāškrustiem rotātas prievītes ēd ķimeņu sieru un taisa puzurus. saņem kriev - viens nulle nacionālisma labā!"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "_skabarga",
       "tweet_id": "1258672332119343104",
       "tweet_text": "Es jau neko, bet gaidīju kad varēs šādi brokastot. Pašu kūpināta gaļa un viss zaļais, svaigais no sava dārza "
@@ -1428,7 +1428,7 @@
       "tweet_text": "@WilmaLinda Kartupeļu klimpu piena zupa. Zaļš gurķis ar medu."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "LauvasAlus",
       "tweet_id": "1260130287360651264",
       "tweet_text": "Pirmo vedumu izķēra! Ja jums tik ļoti garšo - sarūpējām atkārtoti. Priekā! "
@@ -2064,7 +2064,7 @@
       "tweet_text": "@Ilja_Polakovs @ultragreat1 Man iesaki palasīt... pats piemini Spāniju, kādēļ to nedevās atbrīvot, bet Eiropu demolējot gāja uz \"svēto zemi\" Tik ne jau eiropiešiem tā svēta :) Krusta kari bija tāda pati Eiropas glābšana, kā ejot glābt kaimiņu pa ceļam izvarotu viņa meitu, nokautu dēlu apēstu suni"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "meta_sniedze",
       "tweet_id": "1259494805740101632",
       "tweet_text": "@akmanstors @Vinnta1 Cerēsim uz labāko. Mana oma vismaz solīja nesteigties ar tomātu stādīšanu siltumnīcā un šovakar klausīsies savu Bricīti. "
@@ -2358,7 +2358,7 @@
       "tweet_text": "@gerda_c Ja neskaita tējas lasīšanu, tad izlejamā alus un uzkodu pārdošana lielajos koncertos (Elton John, Depeche Mode u.tml.). Neizlietās mucas palika mums. Salējām tukšajās limonādes pudelēs no miskastes .. Bija labs laiks :D"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "ms_logina",
       "tweet_id": "1255969381231853576",
       "tweet_text": "@gerda_c Bet mans pirmais mīļākais darbs bija vasarā, kad man bija 15 un es tirgoju saldējumu Vecāķu pludmalē. Tā tik bija dzīve. Tirgoju tieši pie stacijas, cilvēki bija tikai tad, kad nāca vilcieni, pārējā laikā lasīju grāmatas (apm. vienu dienā), un ēdu daudz saldējuma."
@@ -2562,7 +2562,7 @@
       "tweet_text": "@Reinis_Me @LusisToms Mikroviļņu krāsns ir labāka iekārta virtuvē. Reizēm gan rodās domstarpības, kad no tās tiek izņemts auksts ēdiens uz karsta šķīvja, bet kopumā izcili noderīga lieta."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "MyMiuma",
       "tweet_id": "1257425971843600385",
       "tweet_text": "@RuditeV Ar nebeidzamu darbu,nogurumu. Mamma slimnīcā,vīrs arī saslima.Tiešais darbs deg,bet maizītes tiltu sargiem jāsmērē. Uz slimnīcu.Vakaros jāvazājas pa Ķengaraga dzīvokļiem aģitējot vēlēšanām.Krievi,krievi,krievi.Ak,Dievs,cik viņu daudz!"
@@ -2760,7 +2760,7 @@
       "tweet_text": "Sarunājām, ka jāsāk domāt par sevi fiziski. Katru rītu jāmudina vienam otru. Jāpiezvana. Es sākšu ēst brokastis. Viņš skries. Jauni ieradumi. Izaicinājums. Bail."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "ILazdupe",
       "tweet_id": "1255961553653948421",
       "tweet_text": "@bemusha Man papliķēja pa roku un pateica, lai ejot mājās paēst un izgulēties. Varu paēst un pagulēt, bet spiediens tāpat būs tik zems, ka būtu jāģībst, bet es ar tādu dzīvoju. Arī kā donors brāķis."
@@ -3708,7 +3708,7 @@
       "tweet_text": "@MercenaryJohnD @pulks @jzigajev @Brivibas36 @krisjaniskarins @Vinkele @veselibasmin @SPKCentrs @Nords @SandisRiekstins Cītīgi mazgāju rokas, nesarokojos ar cilvēkiem, labi guļu, ēdu 4x dienā, nesmēķēju, fiziskas aktivitātes un priecājos, ka sportot arī var bērni un treneri var turpināt viņus izglītot. Tas ir ļoti svarīgi. Galvenais, ka drošā un sa"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "KannaRagnesse",
       "tweet_id": "1260605353529683968",
       "tweet_text": "@MatissJekabsons @dj_beatmaster Vēl ļoti garšo fast food. Burgeri, un picas, frī ar mērcēm un bekonu... Nenormāli. Bulīmija izpaudās kā fast food + sports un caurejas zāles."
@@ -3798,13 +3798,13 @@
       "tweet_text": "@and_kse Ir sajūta, ka šitie rodas kā sēnes pēc lietus. Jo šodien ārpus konteksta arī Vakcīnrealitāte nevis man mēģināja ko uzdirst bet šauj pa labi un kreisi. https://t.co/oYotuIR6fx"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Maris_US",
       "tweet_id": "1260662483620069377",
       "tweet_text": "@liana_langa НТВ \"Международная пилорама\" Humora raidījums. Atbrīvotāji nevar paēst restorānā, jo ēdienkartē no sešām valodām nav krievu. Un tas ir NATO valstī."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Adis1981",
       "tweet_id": "1260668795510820874",
       "tweet_text": "@loyds25 Es varēju kaut ko atļauties,kad kaut ko sasniedzu un tā arī dzīvoju. Bet tgd viss otrādāk. Nākotne ir tiem,kuri ir gatavi ēst zemi. Tie,kuri gaida,ka viss iekritīs rokās,tā arī paliks pie bāra ar pudeli rokās."
@@ -4266,7 +4266,7 @@
       "tweet_text": "tējas pārdozēšana ir īsta lieta ?"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "ZiemasEzis",
       "tweet_id": "1261762804274651146",
       "tweet_text": "@GaumigsJoks @E_Stendzenieks @TautasLaiks Tas esot normāli. Narkomāni lēnām lēnām zaudējot dzīves jēgu. Tā parasti notiekot. Redz, tagad braukā apkārt pa dzīvnieku fermām, vienā uzēd murkšķus, otrā strausus, rīt rīs zivis vai zemenes. :) (zīdainis taisa kādai nošļukušai mazpilsētai reklāmas rullīti)"
