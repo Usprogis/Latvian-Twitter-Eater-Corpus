@@ -264,7 +264,7 @@
       "tweet_text": "@rubinstein_ Un vispār - \"the most wonderful time of the year\" ir par laiku, kad atkal var ēst auksto zupu. Lai ilgi dzīvo burciņu marinētā biete!"
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "rusantro",
       "tweet_id": "1258365246965678080",
       "tweet_text": "@ELisovskis Domas par sakarīgumu atšķiras no paražām katrā ģimenē atsevišķi. Vienā to ar prieku notiesā, citā atsakās, jo \"es šo neēdu\". Domāju, ka pie īstas bada sajūtas to noēstu bez iebildumiem."
@@ -552,7 +552,7 @@
       "tweet_text": "@JankaPipars Mērgļi. Cūkas cienu,jo garšīga gaļa."
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "sku_dra",
       "tweet_id": "1258721494219227136",
       "tweet_text": "@LusisToms @AndrejsDeeCee @GMeluskans @Palkavnieks kāpēc vispār tāds hajs ap šķidrajiem biešu salātiem?"
@@ -696,7 +696,7 @@
       "tweet_text": "@originalLNO Pēc katrām šādām ziņām no Polijas, parasti drīz vien seko bāleliņu šokolādes ceha darbinātāju kaucieni par to, ka Polijā totalitārisms un demokrātija briesmās."
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "birzniecepaula",
       "tweet_id": "1260580217208307716",
       "tweet_text": "@VitaBerzina Nē, vienā abus. Neēdi jo sāpēja/negribējās?"
@@ -1596,13 +1596,13 @@
       "tweet_text": "@LindaLauzeL Pamati jāieliek šodien:) Otrā kafija būs jādzer ar jumtiņu:)"
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "Signeens",
       "tweet_id": "1256862759918206982",
       "tweet_text": "@VinetaPu Katru rītu brokastīs - lapas, gurķis, tomāts, redīss, mocarella, turku zirņi, pesto un klāt omlete visdažādākajos veidos. Vēl skatoties filmu vai lasot “kautkā graužama” vietā."
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "ilz",
       "tweet_id": "1256853760481071105",
       "tweet_text": "@VinetaPu Ieliec smalki grieztos grieķu salātos klāt, jebkuru dārzeņu karijā vai tomātu-lēcu zupā. Protams, karalis Humuss bez teikšanas :)"
@@ -2748,7 +2748,7 @@
       "tweet_text": "@KasparsFunts Es vienreiz ar lielu sajūsmu pacēlu ezi no taciņas. Epic fail-iekoda pa riktīgo!"
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "annabezmiegs",
       "tweet_id": "1255959161365553152",
       "tweet_text": "Sarunājām, ka jāsāk domāt par sevi fiziski. Katru rītu jāmudina vienam otru. Jāpiezvana. Es sākšu ēst brokastis. Viņš skries. Jauni ieradumi. Izaicinājums. Bail."
@@ -3036,7 +3036,7 @@
       "tweet_text": "@elinakursite Tipa, ātrāk/labāk izvārās"
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "e_zvirgzdins",
       "tweet_id": "1258802354046087169",
       "tweet_text": "@VilhelmsM Par street - 1x viss bija un slavēju un nākamajā reize bija gara seja. Bet pirmajā reize gan mērce gan mīkla super, pat sieru neprasījās daudz (par ko sākuma biju nedaudz sašutis ieraugot picu)."
@@ -3090,7 +3090,7 @@
       "tweet_text": "RT Šokolādes krēms; https://t.co/nOE93KEvm9"
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "e_zvirgzdins",
       "tweet_id": "1258833712147574784",
       "tweet_text": "@krisselerts @VilhelmsM Nez, kko no veģetārajām picām. Kaitina tas melnas olīves eļļā, citiem garšo "
@@ -3144,7 +3144,7 @@
       "tweet_text": "Ciemos pie Elejas Tējas namiņa.. :) #JelgavasNovads #Latvija https://t.co/xAqPcvmdAH"
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "IvarsNeiders",
       "tweet_id": "1259533335317090312",
       "tweet_text": "Diezgan bieži diskusijās ar gaļēdājiem uzpeld pieņēmums, ka lopi pārtiek no saules un gaisa. Proti, cilvēki bieži apgalvo kaut ko tamlīdzīgu - jā, bet ja mēs neēdīsim gaļu, tad mums būs jāaudzē vairāk dārzeņi."
@@ -4170,7 +4170,7 @@
       "tweet_text": "@_liiga Laikam, jo garšo pēc gumijas"
    },
    {
-      "sentiment": "nei",
+      "sentiment": "neu",
       "screen_name": "HienaNeija",
       "tweet_id": "1261695472537919488",
       "tweet_text": "@cepum_s Es otro dienu ēdu padomju gastronomijas atlieku - soļankas tipa zupu! Jāiet uzsildīt vēl :D"
