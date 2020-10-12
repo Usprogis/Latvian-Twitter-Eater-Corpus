@@ -69,7 +69,7 @@ for results in mycursor:
        
     #Write everything only once.
     tweet_dict["tweet_id"] = str(results[0])
-    tweet_dict["tweet_text"] = str(results[1]).replace("\n"," ").replace("  "," ").replace("  "," ")
+    tweet_dict["tweet_text"] = str(results[1]).replace("\n"," ").replace("\r"," ").replace("  "," ").replace("  "," ")
     tweet_dict["tweet_author"] = str(results[2])
     tweet_dict["created_at"] = str(results[3])
     
