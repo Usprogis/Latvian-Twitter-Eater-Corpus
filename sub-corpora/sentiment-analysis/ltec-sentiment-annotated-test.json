@@ -138,7 +138,7 @@
       "tweet_text": "ŅAM ŅAM https://t.co/L15l0b4zsW"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "_skabarga",
       "tweet_id": "1258416984804528128",
       "tweet_text": "Reku vienas superīgas konditores siera kūkas krēma recepte https://t.co/BD35XGlQxO"
@@ -264,7 +264,7 @@
       "tweet_text": "@rubinstein_ Un vispār - \"the most wonderful time of the year\" ir par laiku, kad atkal var ēst auksto zupu. Lai ilgi dzīvo burciņu marinētā biete!"
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "rusantro",
       "tweet_id": "1258365246965678080",
       "tweet_text": "@ELisovskis Domas par sakarīgumu atšķiras no paražām katrā ģimenē atsevišķi. Vienā to ar prieku notiesā, citā atsakās, jo \"es šo neēdu\". Domāju, ka pie īstas bada sajūtas to noēstu bez iebildumiem."
@@ -300,7 +300,7 @@
       "tweet_text": "Ka es jums saku iesaku! Šitentie burkānu čipsi ir zašibiskas! #influenceris https://t.co/dICUG6sfe8"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "seungwanmarryme",
       "tweet_id": "1256988054235025410",
       "tweet_text": "@renmiyi izēd"
@@ -474,7 +474,7 @@
       "tweet_text": "@elinakursite Ne mamma, bet vecmamma - neēst \"ar acēm\" un, kas uz šķīvja, tas jānoēd."
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "adealise",
       "tweet_id": "1258789548412329984",
       "tweet_text": "@parspilejums “mate gugle” izklausās pēc kaut kādas tējas"
@@ -486,7 +486,7 @@
       "tweet_text": "Šorīt gandrīz aizmirsu kaķi pabarot, aizmirsu Garmin lādētāju, lai darbā uzlādētu un aizmirsu pusdienas. Aizmirsu džemperi, ko pavilkt, ja auksts paliek. Aizmirsu priekšniecei pajautāt par atvaļinājumu, bet CSDD atcerējos piezvanīt. Man galīgi vairs nav labi."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Liva",
       "tweet_id": "1258773092916174849",
       "tweet_text": "Latvietim nevajag covid, latvietis latvieti apēdīs pats."
@@ -498,7 +498,7 @@
       "tweet_text": "@edgarslabsvirs Ļoti žēl ... tik viegli noēst cilvēkus"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Agy_1988",
       "tweet_id": "1258768704722161665",
       "tweet_text": "Ir idejas, kuras nekad nav strādājušas. Piemēram, brokastis mammai! Viņa ceļas tik agri, ka viņa nobrīnīsies, ko zombijs virtuvē dara."
@@ -552,7 +552,7 @@
       "tweet_text": "@JankaPipars Mērgļi. Cūkas cienu,jo garšīga gaļa."
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "sku_dra",
       "tweet_id": "1258721494219227136",
       "tweet_text": "@LusisToms @AndrejsDeeCee @GMeluskans @Palkavnieks kāpēc vispār tāds hajs ap šķidrajiem biešu salātiem?"
@@ -696,7 +696,7 @@
       "tweet_text": "@originalLNO Pēc katrām šādām ziņām no Polijas, parasti drīz vien seko bāleliņu šokolādes ceha darbinātāju kaucieni par to, ka Polijā totalitārisms un demokrātija briesmās."
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "birzniecepaula",
       "tweet_id": "1260580217208307716",
       "tweet_text": "@VitaBerzina Nē, vienā abus. Neēdi jo sāpēja/negribējās?"
@@ -900,7 +900,7 @@
       "tweet_text": "Pēc gadu gadiem ilgas griķu neēšanas, pusdienās tie celti galdā. Man joprojām negaršo."
    },
    {
-      "sentiment": "pos",
+      "sentiment": "neu",
       "screen_name": "paleogleja",
       "tweet_id": "1256182703080300544",
       "tweet_text": "@krisatori Es nez vai man garšo liepziedu tēja."
@@ -1146,7 +1146,7 @@
       "tweet_text": "@dzeina @dr_furmanis Droši vien tāpēc, ka mazi bērni visu ko bāž mutē, ko tik aizsniedz. Tās radījuma kājeles prasīt prasās nogaršot un var aizrīties ar plastmasas plāksnītēm."
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "lauzaneva",
       "tweet_id": "1258354197503840258",
       "tweet_text": "Kad vienīgais dienas iemesls saģērbties ir, lai paņemtu savas Wolt pusdienas un neviens tevi neredzētu halātā plkst.13"
@@ -1218,7 +1218,7 @@
       "tweet_text": "@btsjams321 ja bet kafija lieliskaka"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Murnieks",
       "tweet_id": "1257632682076442624",
       "tweet_text": "@liana_langa @ZiemasEzis @AnitaDreika @XforY Protams katrs jau tulko savādāk. Mana versija, ka pašā sākumā sajauc, kad Baiba iekož saprot, ka nav Zane un iemīlas no pirmā acu skatiena! Un protams milzu spīts, ka pirmais puisis ciemā nedabū uzreiz to meiteni kuru vēlas."
@@ -1278,7 +1278,7 @@
       "tweet_text": "@hmm_pff @Oysterreich nudien. gara acīm redzu kā šis krievs turpmākajā dzīvē tērpjas linu kreklā pin kāškrustiem rotātas prievītes ēd ķimeņu sieru un taisa puzurus. saņem kriev - viens nulle nacionālisma labā!"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "_skabarga",
       "tweet_id": "1258672332119343104",
       "tweet_text": "Es jau neko, bet gaidīju kad varēs šādi brokastot. Pašu kūpināta gaļa un viss zaļais, svaigais no sava dārza "
@@ -1422,13 +1422,13 @@
       "tweet_text": "Ķīniešu super ārsts Aņšī Zedun saka, ka vislābākā tēja pret klepu covid-19 un korupciju ir gaiļbiksīšu tēja! https://t.co/NMfB4dM2A4"
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "jolantaP",
       "tweet_id": "1260131881309388801",
       "tweet_text": "@WilmaLinda Kartupeļu klimpu piena zupa. Zaļš gurķis ar medu."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "LauvasAlus",
       "tweet_id": "1260130287360651264",
       "tweet_text": "Pirmo vedumu izķēra! Ja jums tik ļoti garšo - sarūpējām atkārtoti. Priekā! "
@@ -1596,13 +1596,13 @@
       "tweet_text": "@LindaLauzeL Pamati jāieliek šodien:) Otrā kafija būs jādzer ar jumtiņu:)"
    },
    {
-      "sentiment": "pos",
+      "sentiment": "neu",
       "screen_name": "Signeens",
       "tweet_id": "1256862759918206982",
       "tweet_text": "@VinetaPu Katru rītu brokastīs - lapas, gurķis, tomāts, redīss, mocarella, turku zirņi, pesto un klāt omlete visdažādākajos veidos. Vēl skatoties filmu vai lasot “kautkā graužama” vietā."
    },
    {
-      "sentiment": "pos",
+      "sentiment": "neu",
       "screen_name": "ilz",
       "tweet_id": "1256853760481071105",
       "tweet_text": "@VinetaPu Ieliec smalki grieztos grieķu salātos klāt, jebkuru dārzeņu karijā vai tomātu-lēcu zupā. Protams, karalis Humuss bez teikšanas :)"
@@ -1632,7 +1632,7 @@
       "tweet_text": "Bija nepieciešama globāla krīze, pandēmija, simtiem tūkstošu cilvēku nāves, lai veikalos beidzot sāktu apsegt bulciņas"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "Skudra28",
       "tweet_id": "1257393625014718464",
       "tweet_text": "@cepum_s @LiepinLiva Mums jau pirms distancēšanās ir ieviesta tradīcija - visur līdzi pusdienu kārbas, tējas termoss un man kafija termokrūzē. Sīkajiem tas ir piedzīvojums, man - ekonomiskāk :D"
@@ -1998,7 +1998,7 @@
       "tweet_text": "Taisnības cīnītājs-žurnālists tagad ir Latvijas lielākais kangars un melis, mūziķus, kuri festivālos pulcē desmitiem tūkstošu - nevienam vairs nevajag un ministre lielā digitālā disenē izmet visiem vidējo pirkstiņu. Es murgoju vai jūs visi kolektīvi ēdat kaut kādas narkotikas?"
    },
    {
-      "sentiment": "pos",
+      "sentiment": "neg",
       "screen_name": "KaktussLogaa",
       "tweet_id": "1258992337704927232",
       "tweet_text": "@MartinsAbolins Plaisas jau ir. Kad es lasu, ka dīkstāves pabalstā dažs labs “radošais” saņem tikpat, cik es algā (strādājot medicīnā šajos apstākļos-ar ierobežotu IAL skaitu, stresā un BEZ piemaksām), man paliek šķērmi ap dūšu. Tikmēr šamējie mājās cep kūkas un vēro saulrietus. Taisnīgi?"
@@ -2064,7 +2064,7 @@
       "tweet_text": "@Ilja_Polakovs @ultragreat1 Man iesaki palasīt... pats piemini Spāniju, kādēļ to nedevās atbrīvot, bet Eiropu demolējot gāja uz \"svēto zemi\" Tik ne jau eiropiešiem tā svēta :) Krusta kari bija tāda pati Eiropas glābšana, kā ejot glābt kaimiņu pa ceļam izvarotu viņa meitu, nokautu dēlu apēstu suni"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "meta_sniedze",
       "tweet_id": "1259494805740101632",
       "tweet_text": "@akmanstors @Vinnta1 Cerēsim uz labāko. Mana oma vismaz solīja nesteigties ar tomātu stādīšanu siltumnīcā un šovakar klausīsies savu Bricīti. "
@@ -2358,7 +2358,7 @@
       "tweet_text": "@gerda_c Ja neskaita tējas lasīšanu, tad izlejamā alus un uzkodu pārdošana lielajos koncertos (Elton John, Depeche Mode u.tml.). Neizlietās mucas palika mums. Salējām tukšajās limonādes pudelēs no miskastes .. Bija labs laiks :D"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "ms_logina",
       "tweet_id": "1255969381231853576",
       "tweet_text": "@gerda_c Bet mans pirmais mīļākais darbs bija vasarā, kad man bija 15 un es tirgoju saldējumu Vecāķu pludmalē. Tā tik bija dzīve. Tirgoju tieši pie stacijas, cilvēki bija tikai tad, kad nāca vilcieni, pārējā laikā lasīju grāmatas (apm. vienu dienā), un ēdu daudz saldējuma."
@@ -2382,7 +2382,7 @@
       "tweet_text": "Kā garšo kartons. And all that is in the wrong century."
    },
    {
-      "sentiment": "neg",
+      "sentiment": "pos",
       "screen_name": "mafija420",
       "tweet_id": "1256702064429858819",
       "tweet_text": "man garšo apelsīnu sula, bet es nekad to nedzeršu vienu pašu"
@@ -2448,7 +2448,7 @@
       "tweet_text": "pusminūtes laikā. Kad gatavs, UZVELC CIMDU (pirksti vēl noderēs) un rauj laukā. Kamēr dziest, uztaisi kafiju, sakrauj maizītes uz šķīvja un stiep uz gultu ar tādu seju, itkā tas būtu bijis vienkārši. Lūdzu, mīļās sievietes, izbaudiet! Jūsu uzdevums ir palikt gultā un netraucēt."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "n_karklinz",
       "tweet_id": "1257294707216056320",
       "tweet_text": "@KristineStend @ArvisKolmanis Komunists apgrēcināsies, ja ēdīs cūkas šņukuru vai pelēkos zirņus."
@@ -2562,7 +2562,7 @@
       "tweet_text": "@Reinis_Me @LusisToms Mikroviļņu krāsns ir labāka iekārta virtuvē. Reizēm gan rodās domstarpības, kad no tās tiek izņemts auksts ēdiens uz karsta šķīvja, bet kopumā izcili noderīga lieta."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "MyMiuma",
       "tweet_id": "1257425971843600385",
       "tweet_text": "@RuditeV Ar nebeidzamu darbu,nogurumu. Mamma slimnīcā,vīrs arī saslima.Tiešais darbs deg,bet maizītes tiltu sargiem jāsmērē. Uz slimnīcu.Vakaros jāvazājas pa Ķengaraga dzīvokļiem aģitējot vēlēšanām.Krievi,krievi,krievi.Ak,Dievs,cik viņu daudz!"
@@ -2584,12 +2584,6 @@
       "screen_name": "3hundr3d",
       "tweet_id": "1257840794490339335",
       "tweet_text": "tikko ēdām vīnogas"
-   },
-   {
-      "sentiment": "neg",
-      "screen_name": "cerija_capstika",
-      "tweet_id": "1257817664996683783",
-      "tweet_text": "Vai baltvīns ar apelsīnu sulu varētu saukties Vinosa? 5 dienas neesmu iepostējusi nevienu instastoriju. Parasti liku līdz pat 10 dienā. Visādas random lietas. Tekstūra, perspektīve, kaķis, noskaņa, iedvesma, garša, smarža. Šodien sākās lomkas. Saņemies, chérie, saņemies."
    },
    {
       "sentiment": "neg",
@@ -2754,13 +2748,13 @@
       "tweet_text": "@KasparsFunts Es vienreiz ar lielu sajūsmu pacēlu ezi no taciņas. Epic fail-iekoda pa riktīgo!"
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "annabezmiegs",
       "tweet_id": "1255959161365553152",
       "tweet_text": "Sarunājām, ka jāsāk domāt par sevi fiziski. Katru rītu jāmudina vienam otru. Jāpiezvana. Es sākšu ēst brokastis. Viņš skries. Jauni ieradumi. Izaicinājums. Bail."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "ILazdupe",
       "tweet_id": "1255961553653948421",
       "tweet_text": "@bemusha Man papliķēja pa roku un pateica, lai ejot mājās paēst un izgulēties. Varu paēst un pagulēt, bet spiediens tāpat būs tik zems, ka būtu jāģībst, bet es ar tādu dzīvoju. Arī kā donors brāķis."
@@ -3042,7 +3036,7 @@
       "tweet_text": "@elinakursite Tipa, ātrāk/labāk izvārās"
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "e_zvirgzdins",
       "tweet_id": "1258802354046087169",
       "tweet_text": "@VilhelmsM Par street - 1x viss bija un slavēju un nākamajā reize bija gara seja. Bet pirmajā reize gan mērce gan mīkla super, pat sieru neprasījās daudz (par ko sākuma biju nedaudz sašutis ieraugot picu)."
@@ -3054,7 +3048,7 @@
       "tweet_text": "@VilhelmsM Neesmu burgeru fans, bet šitos burgerus ēdu ar laimi"
    },
    {
-      "sentiment": "pos",
+      "sentiment": "neu",
       "screen_name": "Murnieks",
       "tweet_id": "1258807830259343361",
       "tweet_text": "@elinakursite Ēst ar nazi un dakšiņu."
@@ -3096,7 +3090,7 @@
       "tweet_text": "RT Šokolādes krēms; https://t.co/nOE93KEvm9"
    },
    {
-      "sentiment": "pos",
+      "sentiment": "neu",
       "screen_name": "e_zvirgzdins",
       "tweet_id": "1258833712147574784",
       "tweet_text": "@krisselerts @VilhelmsM Nez, kko no veģetārajām picām. Kaitina tas melnas olīves eļļā, citiem garšo "
@@ -3106,12 +3100,6 @@
       "screen_name": "KristineSpure",
       "tweet_id": "1258833956293795841",
       "tweet_text": "@EvijaTaurene @VilhelmsM Bekko picu sen neesmu ēdusi, bet pasta ar gaļu gan tur garda. :)"
-   },
-   {
-      "sentiment": "neg",
-      "screen_name": "vihrov",
-      "tweet_id": "1258852601212387329",
-      "tweet_text": "When Kārums degustation gives you a food coma (after dinner) https://t.co/SyYKq4Cn9g"
    },
    {
       "sentiment": "neg",
@@ -3156,7 +3144,7 @@
       "tweet_text": "Ciemos pie Elejas Tējas namiņa.. :) #JelgavasNovads #Latvija https://t.co/xAqPcvmdAH"
    },
    {
-      "sentiment": "neg",
+      "sentiment": "neu",
       "screen_name": "IvarsNeiders",
       "tweet_id": "1259533335317090312",
       "tweet_text": "Diezgan bieži diskusijās ar gaļēdājiem uzpeld pieņēmums, ka lopi pārtiek no saules un gaisa. Proti, cilvēki bieži apgalvo kaut ko tamlīdzīgu - jā, bet ja mēs neēdīsim gaļu, tad mums būs jāaudzē vairāk dārzeņi."
@@ -3298,12 +3286,6 @@
       "screen_name": "Heyitmehabib",
       "tweet_id": "1259798946647506944",
       "tweet_text": "Šogad pirmoreiz izbraucu pamatīgā lietū. Kapuce, mugursoma, elšana - viss, ko vajag. Biju gudrāka un uz bagāžnieka uzliku dārzeņu kasti, lai nesaspiestu mīļos "
-   },
-   {
-      "sentiment": "neu",
-      "screen_name": "bitchka11",
-      "tweet_id": "1259799484558688257",
-      "tweet_text": "Gara se zove moje malo naruto srce "
    },
    {
       "sentiment": "neg",
@@ -3720,7 +3702,7 @@
       "tweet_text": "@MercenaryJohnD @pulks @jzigajev @Brivibas36 @krisjaniskarins @Vinkele @veselibasmin @SPKCentrs @Nords @SandisRiekstins Cītīgi mazgāju rokas, nesarokojos ar cilvēkiem, labi guļu, ēdu 4x dienā, nesmēķēju, fiziskas aktivitātes un priecājos, ka sportot arī var bērni un treneri var turpināt viņus izglītot. Tas ir ļoti svarīgi. Galvenais, ka drošā un sa"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "pos",
       "screen_name": "KannaRagnesse",
       "tweet_id": "1260605353529683968",
       "tweet_text": "@MatissJekabsons @dj_beatmaster Vēl ļoti garšo fast food. Burgeri, un picas, frī ar mērcēm un bekonu... Nenormāli. Bulīmija izpaudās kā fast food + sports un caurejas zāles."
@@ -3810,13 +3792,13 @@
       "tweet_text": "@and_kse Ir sajūta, ka šitie rodas kā sēnes pēc lietus. Jo šodien ārpus konteksta arī Vakcīnrealitāte nevis man mēģināja ko uzdirst bet šauj pa labi un kreisi. https://t.co/oYotuIR6fx"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Maris_US",
       "tweet_id": "1260662483620069377",
       "tweet_text": "@liana_langa НТВ \"Международная пилорама\" Humora raidījums. Atbrīvotāji nevar paēst restorānā, jo ēdienkartē no sešām valodām nav krievu. Un tas ir NATO valstī."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "Adis1981",
       "tweet_id": "1260668795510820874",
       "tweet_text": "@loyds25 Es varēju kaut ko atļauties,kad kaut ko sasniedzu un tā arī dzīvoju. Bet tgd viss otrādāk. Nākotne ir tiem,kuri ir gatavi ēst zemi. Tie,kuri gaida,ka viss iekritīs rokās,tā arī paliks pie bāra ar pudeli rokās."
@@ -4182,13 +4164,13 @@
       "tweet_text": "Labdien, @Sadalestikls ! Ja nav noslēpums, kādēļ Dobeles novadā šodien pazuda elektrība? Bijām ēstuvē, bet paēst nepaguvām."
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "fluffy_mia",
       "tweet_id": "1261692906525593600",
       "tweet_text": "@_liiga Laikam, jo garšo pēc gumijas"
    },
    {
-      "sentiment": "pos",
+      "sentiment": "neu",
       "screen_name": "HienaNeija",
       "tweet_id": "1261695472537919488",
       "tweet_text": "@cepum_s Es otro dienu ēdu padomju gastronomijas atlieku - soļankas tipa zupu! Jāiet uzsildīt vēl :D"
@@ -4210,12 +4192,6 @@
       "screen_name": "ofija_",
       "tweet_id": "1261717524179189760",
       "tweet_text": "@debes_manna Turos, cītīgi turos. Šobrīd taisu ēst un skatos pavārpamācības. Ļoti labi skipoju, un vispār neklausos tās muļķības. Bet tāpat. Nogurdinoši."
-   },
-   {
-      "sentiment": "neu",
-      "screen_name": "antra__a",
-      "tweet_id": "1261717734909530112",
-      "tweet_text": "✾ samaisa: biezpienu ~200+g eļļu ≤100ml pienu ≤100ml ✾ pievieno cukuru, sāli +citas garšvielas/piedevas pēc nepieciešamības ✾ pa daļām piesijā miltus ~400g & cepamo pulveri ✾ samīca mīklu, ko pusstundu atdzesē ledusskapī ✾ mīklu izrullē, cep plātsmaizi, maizītes u.c. ~180°"
    },
    {
       "sentiment": "neu",
@@ -4278,7 +4254,7 @@
       "tweet_text": "tējas pārdozēšana ir īsta lieta ?"
    },
    {
-      "sentiment": "neu",
+      "sentiment": "neg",
       "screen_name": "ZiemasEzis",
       "tweet_id": "1261762804274651146",
       "tweet_text": "@GaumigsJoks @E_Stendzenieks @TautasLaiks Tas esot normāli. Narkomāni lēnām lēnām zaudējot dzīves jēgu. Tā parasti notiekot. Redz, tagad braukā apkārt pa dzīvnieku fermām, vienā uzēd murkšķus, otrā strausus, rīt rīs zivis vai zemenes. :) (zīdainis taisa kādai nošļukušai mazpilsētai reklāmas rullīti)"
@@ -4290,7 +4266,7 @@
       "tweet_text": "@UgisB Gaļēdājiem arī jāēd"
    },
    {
-      "sentiment": "neg",
+      "sentiment": "pos",
       "screen_name": "KaijaSkujina",
       "tweet_id": "1262046843141263367",
       "tweet_text": "Drausmīgi garšo cepumu mīkla."
