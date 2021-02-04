@@ -23,3 +23,4 @@ This sub-corpus contains 5420 tweets with human-annotated sentiment as positive 
 * [Peisenieks](https://github.com/FnTm/latvian-tweet-sentiment-corpus) - ~ 1000 general tweets with sentiment annotated by multiple annotators
 * [Vīksna](https://github.com/RinaldsViksna/sikzinu_analize) - ~ 4000 general tweets
 * [Nicmanis](https://github.com/nicemanis/LV-twitter-sentiment-corpus) - ~ 2000 general tweets
+* [Špats](https://github.com/gatis/om) - ~ 6000 general tweets (lowercased)
