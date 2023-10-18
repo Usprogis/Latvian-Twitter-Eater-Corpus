@@ -1,6 +1,13 @@
 # Latvian Twitter Eater Corpus
 
 This repository contains the Latvian Twitter Eater Corpus.
+
+The corpus consists of tweets that have been collected from October 2011 until September 2023. They have been tracked using 363 keywords, which are various inflections of Latvian words associated with eating, tasting, breakfast, lunch, dinner, etc. The main keywords are mostly verbs that describe eating, inflected to all usable forms and included in the full keyword list. The rest of the keywords are a set of the top 60 food-related words that were most popular in the first month of collecting the tweets. 
+
+The corpus is available on GitHub in accordance with the content redistribution section of the Twitter Developer Agreement and Policy. The public release includes tweet IDs along with data fields created within the scope of the project. The complete version is available upon individual request for research purposes. The repository also includes data processing scripts and details on how to reproduce experiments.
+
+The corpus contains around 2.5 million tweets, of which around 10% contain media information, about 12% contain location information and ~60% tweets mention food or drink products.
+
 Repository structure:
 - **full-corpus** - the full corpus in several formats
 - **sub-corpora** - task-specific sub-corpora derrived from the full corpus
